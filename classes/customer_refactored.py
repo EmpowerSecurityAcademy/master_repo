@@ -13,7 +13,7 @@ class CustomerRefactored(object):
 		# assign food to a variable of custmer named food
 
 
-	def calculate_purchase_amount(self, order):
+	#def calculate_purchase_amount(self, order):
 		#the order object is a dictionary, with food types and amounts
 		# {
 		# 	"burritos": 1,
@@ -24,11 +24,11 @@ class CustomerRefactored(object):
 		# and then returns that amount
 
 
-	def purchase_food(self, order):
+	#def purchase_food(self, order):
 		# use calculate_purchase_amount to calculate the cost of food
 		# remove the purchase price of food from self.cash_available
 		# add food ordered to the self.food variable
 
 
-	def eat_food(self, food_eaten):
+	#def eat_food(self, food_eaten):
 		#remove from self.food the food in the food_eaten object 
