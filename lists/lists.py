@@ -3,7 +3,7 @@ import types
 
 # return elements of a list
 # if there are more than one of that element in the list
-def return_non_unique(list_charachters):
+def return_non_unique(list_characters):
 
 
 
